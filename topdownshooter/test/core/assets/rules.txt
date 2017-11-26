@@ -1,0 +1,8 @@
+RULES:
+- Players must eliminate the professors, deans, and trustees on screen by 
+shooting beanbags
+- You need to take down a certain amount of targets for each level to 
+continue
+- You are given three lives to start off with and you lose a life when time 
+runs out
+- Click on an area on the game screen to launch a beanbag
